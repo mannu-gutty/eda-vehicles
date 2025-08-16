@@ -205,3 +205,17 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Entorno virtual
+vehicles_env/
+.venv/
+
+# Config de VS Code
+.vscode/
+
+# Checkpoints de Jupyter
+.ipynb_checkpoints/
+
+# Datos locales (opcional, quítalo si quieres subir datasets)
+data/
+

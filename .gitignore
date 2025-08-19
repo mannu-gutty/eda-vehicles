@@ -217,5 +217,5 @@ vehicles_env/
 .ipynb_checkpoints/
 
 # Datos locales (opcional, quítalo si quieres subir datasets)
-data/
+#data/
 
